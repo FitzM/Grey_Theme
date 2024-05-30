@@ -8,7 +8,11 @@
 		"terminal.foreground": "#ffffff",
 		"sideBar.background": "#C8D8D5",
 		"sideBar.foreground": "#1E1214",
-		"sideBar.border": "#A19083"
+		"sideBar.border": "#A19083",
+		"editor.selectionBackground": "#ADD8E6", // Light blue background for selected text
+		"editor.selectionForeground": "#000000",  // Black foreground for selected text
+		"editor.findMatchBackground": "#FFD700", // Gold background for the current find match
+		"editor.findMatchHighlightBackground": "#FFEA94" // Light gold background for other find matches
 	},
 	"tokenColors": [
 		{
