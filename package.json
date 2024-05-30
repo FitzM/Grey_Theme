@@ -1,0 +1,24 @@
+{
+  "name": "light_Theme",
+  "displayName": "light_Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "light_Theme",
+        "uiTheme": "vs",
+        "path": "./themes/light_Theme-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}

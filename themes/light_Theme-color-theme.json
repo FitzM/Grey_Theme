@@ -1,0 +1,125 @@
+{
+	"name": "Light Theme",
+	"type": "light",
+	"colors": {
+		"editor.background": "#cdcdcdb6",
+		"editor.foreground": "#1E1214",
+		"terminal.background": "#b9b9b9",
+		"terminal.foreground": "#ffffff",
+		"sideBar.background": "#C8D8D5",
+		"sideBar.foreground": "#1E1214",
+		"sideBar.border": "#A19083"
+	},
+	"tokenColors": [
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#585858" // Adjusted to improve contrast and alignment
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#d16200" // Slightly tweaked for consistency
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#0486A7" // Kept in the blue section but modified for balance
+			}
+		},
+		{
+			"scope": "variable",
+			"settings": {
+				"foreground": "#0E7176" // In the teal section, adjusted for contrast
+			}
+		},
+		{
+			"scope": "variable.name",
+			"settings": {
+				"foreground": "#01709F" // Maintained in blue hues, slightly saturated
+			}
+		},
+		{
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#952d74" // Purplish-red adjusted for cohesion
+			}
+		},
+		{
+			"scope": "constant",
+			"settings": {
+				"foreground": "#4F5224" // Kept in the olive-green area with tweaks
+			}
+		},
+		{
+			"scope": "number",
+			"settings": {
+				"foreground": "#1B738D" // Deepened to maintain a bluish shade
+			}
+		},
+		{
+			"scope": "operator",
+			"settings": {
+				"foreground": "#64261F" // Adjusted to remain reddish-brown
+			}
+		},
+		{
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#435881" // Blue-gray with slight modifications
+			}
+		},
+		{
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#c82f00" // Kept in the orange section with updates
+			}
+		},
+		{
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#A712D4", // Adjusted purple for bold emphasis
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "storage.modifier",
+			"settings": {
+				"foreground": "#A256C2", // Adjusted purple for emphasis
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "class",
+			"settings": {
+				"foreground": "#3C6E7E" // Slight tweaks to tealish hue
+			}
+		},
+		{
+			"scope": "type",
+			"settings": {
+				"foreground": "#3C6E7E" // Retained tealish hue with modifications
+			}
+		},
+		{
+			"scope": "keyword.control",
+			"settings": {
+				"foreground": "#435881" // Slight tweaks for cohesion
+			}
+		},
+		{
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#9b2518" // Kept consistent with string color
+			}
+		},
+		{
+			"scope": "keyword.other",
+			"settings": {
+				"foreground": "#2E7389" // Maintained bluish-green tones
+			}
+		}
+	]
+}
