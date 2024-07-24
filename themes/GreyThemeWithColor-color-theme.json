@@ -2,12 +2,12 @@
 	"name": "GreyThemeWithColor",
 	"type": "light",
 	"colors": {
-		"editor.background": "#bfd1d199",
+		"editor.background": "#9ab3b370",
 		"editor.foreground": "#1E1214",
 		"terminal.background": "#b9b9b9",
 		"terminal.foreground": "#ffffff",
-		"sideBar.background": "#C8D8D5",
-		"sideBar.foreground": "#1E1214",
+		"sideBar.background": "#a3b6bd",
+		"sideBar.foreground": "#150d0e",
 		"sideBar.border": "#A19083",
 		"editor.selectionBackground": "#ADD8E6", // Light blue background for selected text
 		"editor.selectionForeground": "#000000",  // Black foreground for selected text
@@ -24,7 +24,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#bc3e08"
+				"foreground": "#201e18"
 			}
 		},
 		{
@@ -78,7 +78,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#c82f00" // Kept in the orange section with updates
+				"foreground": "#c52e00b7" // Kept in the orange section with updates
 			}
 		},
 		{
@@ -110,7 +110,7 @@
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#435881" // Slight tweaks for cohesion
+				"foreground": "#26537f" // Slight tweaks for cohesion
 			}
 		},
 		{
