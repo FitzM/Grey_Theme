@@ -1,6 +1,6 @@
 {
-  "name": "light_Theme",
-  "displayName": "light_Theme",
+  "name": "GreyThemeWithColor",
+  "displayName": "GreyThemeWithColor",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "light_Theme",
+        "label": "GreyThemeWithColor",
         "uiTheme": "vs",
-        "path": "./themes/light_Theme-color-theme.json"
+        "path": "./themes/GreyThemeWithColor-color-theme.json"
       }
     ]
   },

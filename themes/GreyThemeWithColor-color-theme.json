@@ -1,8 +1,8 @@
 {
-	"name": "Light Theme",
+	"name": "GreyThemeWithColor",
 	"type": "light",
 	"colors": {
-		"editor.background": "#cdcdcdb6",
+		"editor.background": "#bfd1d199",
 		"editor.foreground": "#1E1214",
 		"terminal.background": "#b9b9b9",
 		"terminal.foreground": "#ffffff",
@@ -24,7 +24,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#d16200" // Slightly tweaked for consistency
+				"foreground": "#bc3e08"
 			}
 		},
 		{
@@ -54,7 +54,7 @@
 		{
 			"scope": "constant",
 			"settings": {
-				"foreground": "#4F5224" // Kept in the olive-green area with tweaks
+				"foreground": "#a50dad" // Kept in the olive-green area with tweaks
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 		{
 			"scope": "keyword.other",
 			"settings": {
-				"foreground": "#2E7389" // Maintained bluish-green tones
+				"foreground": "#114151" // Maintained bluish-green tones
 			}
 		}
 	]
